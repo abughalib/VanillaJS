@@ -1,0 +1,36 @@
+.nav{
+  display: flex;
+  justify-content: center;
+  height: 75px;
+  background-color: lightgray;
+}
+
+.form-border{
+  margin: 60px;
+  padding: 50px 50px 100px 50px;
+  background-color: lightgrey;
+}
+.row-1{
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+.user-form{
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.user-form input{
+  height: 35px;
+  margin-bottom: 30px;
+}
+.submit-button{
+  background-color: black;
+  color: white;
+  font-size: medium;
+}
+
+.error{
+  color: red;
+  background-color: yellow;
+}
